@@ -21,7 +21,12 @@ body {
 }
 
 .heading h1 .seo {
+<<<<<<< HEAD
     color: #be2835;
+=======
+    color: #b9262b;
+    font-style: italic;
+>>>>>>> 0ef5ae51e7bf2dc0fc8059b523d4d8f372effc56
 }
 
 .navigation {
